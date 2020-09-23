@@ -11,7 +11,7 @@ Yeah, that's it!
 
 ## Running
 
-`git clone https://github.com/sciencegirl100/Invitationer.git`
+`git clone https://github.com/Tiduszk/Invitationer.git`
 
 `cd Invitationer`
 
